@@ -4,6 +4,6 @@ Welcome to my collection of cybersecurity notes! This repository contains a comp
 
 Feel free to contribute to this repository by adding your own notes, insights, or corrections. Together, we can build a comprehensive resource for cybersecurity enthusiasts and professionals.
 
-[Authentication Bypass](./MyNotes/Authentication Bypass/Authentication_Bypass.md)
+[Authentication Bypass](./Authentication Bypass/Authentication_Bypass.md)
 
 Happy learning and stay secure!
